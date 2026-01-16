@@ -38,6 +38,11 @@
     text-decoration: none;
     font-weight: bold;
   }
+
+  .contact-info a {
+    color: #1a73e8;
+    text-decoration: none;
+  }
   
   .nav-list a:hover {
     text-decoration: underline;
@@ -68,4 +73,62 @@
     color: #fff;
     margin-top: 2rem;
   }
+
+  /* =========================
+   Contact Page Styles
+   ========================= */
+.contact-page {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.contact-page h1,
+.contact-page h2 {
+  color: #1a73e8; /* Different color to differentiate sections */
+  margin-bottom: 1rem;
+}
+
+.contact-info ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact-info li {
+  margin-bottom: 0.5rem;
+}
+
+
+.contact-form {
+  margin-top: 2rem;
+}
+
+.contact-form label {
+  display: block;
+  margin-bottom: 0.3rem;
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact-form button {
+  background-color: #1a73e8;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background-color: #1558b0;
+}
+
   
