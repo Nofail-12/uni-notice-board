@@ -1,4 +1,4 @@
-6980
+6984
 49C:\Users\user\desktop\uni-notice-board\Dockerfile134130579680622304 0
 68C:\Users\user\desktop\uni-notice-board\node_modules\type-fest\source134130590217764200 1
 51C:\Users\user\desktop\uni-notice-board\node_modules134130590998151769 1
@@ -44,7 +44,7 @@
 104C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\css-background-offsets.js134130590251481924 0
 102C:\Users\user\desktop\uni-notice-board\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h134130590220654196 0
 127C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-gnu.node134130590219344224 0
-43C:\Users\user\desktop\uni-notice-board\dist134130592750521186 1
+43C:\Users\user\desktop\uni-notice-board\dist134130611370884867 1
 115C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\keyframe-declaration-no-important\index.mjs134130590222674210 0
 69C:\Users\user\desktop\uni-notice-board\node_modules\@msgpackr-extract134130590996155694 1
 86C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\zstd.js134130590307864647 0
@@ -87,9 +87,6 @@
 85C:\Users\user\desktop\uni-notice-board\node_modules\ajv\lib\compile\validate\index.ts134130590225204208 0
 76C:\Users\user\desktop\uni-notice-board\node_modules\cacheable\dist\index.cjs134130590242802018 0
 56C:\Users\user\desktop\uni-notice-board\package-lock.json134130590997400287 0
-88C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\utils\hasDimension.mjs134130590219684225 0
-84C:\Users\user\desktop\uni-notice-board\node_modules\ajv\lib\compile\jtd\serialize.ts134130590226894170 0
-61C:\Users\user\desktop\uni-notice-board\node_modules\env-paths134130590232571845 1
 51C:\Users\user\desktop\uni-notice-board\package.json134130590996205710 0
 84C:\Users\user\desktop\uni-notice-board\node_modules\table\dist\src\drawBorder.js.map134130590228874165 0
 117C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\at-rule-descriptor-value-no-unknown\index.mjs134130590220404191 0
@@ -129,8 +126,8 @@
 85C:\Users\user\desktop\uni-notice-board\node_modules\weak-lru-cache\tests\benchmark.js134130590208444161 0
 73C:\Users\user\desktop\uni-notice-board\node_modules\color-convert\LICENSE134130590210224177 0
 74C:\Users\user\desktop\uni-notice-board\node_modules\path-scurry\LICENSE.md134130590214004185 0
-42C:\Users\user\desktop\uni-notice-board\src134130588741833066 1
-55C:\Users\user\desktop\uni-notice-board\styles\style.css134130579680692279 0
+42C:\Users\user\desktop\uni-notice-board\src134130605201091111 1
+55C:\Users\user\desktop\uni-notice-board\styles\style.css134130607461874346 0
 99C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\rtcpeerconnection.js134130590293218850 0
 83C:\Users\user\desktop\uni-notice-board\node_modules\ajv\lib\compile\codegen\code.ts134130590224114184 0
 72C:\Users\user\desktop\uni-notice-board\node_modules\hashery\dist\browser134130590255680359 1
@@ -158,14 +155,26 @@
 83C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\regions\TV.js134130590302811733 0
 96C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\media-type-no-deprecated134130590223114181 1
 87C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\runtime-js\lib\helpers\node134130590290128910 1
-53C:\Users\user\desktop\uni-notice-board\src\exams.html134130592470912088 0
+53C:\Users\user\desktop\uni-notice-board\src\exams.html134130610737201712 0
 128C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node134130590220024215 0
 77C:\Users\user\desktop\uni-notice-board\node_modules\msgpackr\dist\test.js.map134130590302121826 0
 90C:\Users\user\desktop\uni-notice-board\node_modules\postcss-selector-parser\dist\parser.js134130590214994203 0
 83C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\lib\syntax\node\Raw.js134130590261086377 0
 110C:\Users\user\desktop\uni-notice-board\node_modules\supports-hyperlinks\node_modules\supports-color\index.d.ts134130590353731890 0
-53C:\Users\user\desktop\uni-notice-board\src\index.html134130592701589211 0
+53C:\Users\user\desktop\uni-notice-board\src\index.html134130610708397887 0
 102C:\Users\user\desktop\uni-notice-board\node_modules\lightningcss\node_modules\detect-libc\package.json134130590210904195 0
+84C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\core\test\Parcel.test.js134130590349679221 0
+77C:\Users\user\desktop\uni-notice-board\node_modules\@swc\counter\CHANGELOG.md134130590208264215 0
+113C:\Users\user\desktop\uni-notice-board\node_modules\ajv\dist\refs\json-schema-2020-12\meta\format-annotation.json134130590221114218 0
+62C:\Users\user\desktop\uni-notice-board\node_modules\slice-ansi134130590211154276 1
+75C:\Users\user\desktop\uni-notice-board\node_modules\weak-lru-cache\index.js134130590209204185 0
+72C:\Users\user\desktop\uni-notice-board\node_modules\json5\lib\parse.d.ts134130590214364190 0
+92C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\lib\syntax\node\SelectorList.js134130590261196428 0
+57C:\Users\user\desktop\uni-notice-board\node_modules\tslib134130590213504315 1
+88C:\Users\user\desktop\uni-notice-board\node_modules\@nodelib\fs.scandir\out\constants.js134130590210114201 0
+68C:\Users\user\desktop\uni-notice-board\node_modules\path-scurry\dist134130590209234187 1
+55C:\Users\user\desktop\uni-notice-board\src\notices.html134130611285782929 0
+93C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\no-unknown-animations134130590223384170 1
 104C:\Users\user\desktop\uni-notice-board\node_modules\@swc\helpers\esm\_object_without_properties_loose.js134130590272114039 0
 66C:\Users\user\desktop\uni-notice-board\node_modules\util-deprecate134130590210434184 1
 63C:\Users\user\desktop\uni-notice-board\node_modules\ansi-styles134130590209974194 1
@@ -351,6 +360,9 @@
 109C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\selector-pseudo-class-disallowed-list134130590224294173 1
 97C:\Users\user\desktop\uni-notice-board\node_modules\node-gyp-build-optional-packages\package.json134130590210564204 0
 65C:\Users\user\desktop\uni-notice-board\node_modules\dotenv-expand134130590212064680 1
+88C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\utils\hasDimension.mjs134130590219684225 0
+84C:\Users\user\desktop\uni-notice-board\node_modules\ajv\lib\compile\jtd\serialize.ts134130590226894170 0
+61C:\Users\user\desktop\uni-notice-board\node_modules\env-paths134130590232571845 1
 92C:\Users\user\desktop\uni-notice-board\node_modules\table\dist\src\schemas\streamConfig.json134130590228764188 0
 83C:\Users\user\desktop\uni-notice-board\node_modules\postcss\lib\no-work-result.d.ts134130590218034188 0
 103C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\annotation-no-unknown\index.mjs134130590220284179 0
@@ -684,7 +696,7 @@
 66C:\Users\user\desktop\uni-notice-board\node_modules\normalize-path134130590209334208 1
 81C:\Users\user\desktop\uni-notice-board\node_modules\glob\dist\cjs\walker.d.ts.map134130590250831927 0
 89C:\Users\user\desktop\uni-notice-board\node_modules\cosmiconfig\dist\getPropertyByPath.js134130590237501846 0
-54C:\Users\user\desktop\uni-notice-board\dist\exams.html134130592750441446 0
+54C:\Users\user\desktop\uni-notice-board\dist\exams.html134130611370685515 0
 95C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\color-function-notation134130590220874176 1
 84C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\tokenizer\utils.cjs134130590244461964 0
 62C:\Users\user\desktop\uni-notice-board\node_modules\nullthrows134130590210444203 1
@@ -810,14 +822,6 @@
 109C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\keyframe-block-no-duplicate-selectors134130590222644254 1
 63C:\Users\user\desktop\uni-notice-board\node_modules\signal-exit134130590216204184 1
 85C:\Users\user\desktop\uni-notice-board\node_modules\signal-exit\dist\mjs\package.json134130590212114174 0
-84C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\core\test\Parcel.test.js134130590349679221 0
-77C:\Users\user\desktop\uni-notice-board\node_modules\@swc\counter\CHANGELOG.md134130590208264215 0
-113C:\Users\user\desktop\uni-notice-board\node_modules\ajv\dist\refs\json-schema-2020-12\meta\format-annotation.json134130590221114218 0
-62C:\Users\user\desktop\uni-notice-board\node_modules\slice-ansi134130590211154276 1
-75C:\Users\user\desktop\uni-notice-board\node_modules\weak-lru-cache\index.js134130590209204185 0
-72C:\Users\user\desktop\uni-notice-board\node_modules\json5\lib\parse.d.ts134130590214364190 0
-92C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\lib\syntax\node\SelectorList.js134130590261196428 0
-57C:\Users\user\desktop\uni-notice-board\node_modules\tslib134130590213504315 1
 65C:\Users\user\desktop\uni-notice-board\node_modules\source-map-js134130590214154235 1
 108C:\Users\user\desktop\uni-notice-board\node_modules\@csstools\css-syntax-patches-for-csstree\dist\index.json134130590359792299 0
 82C:\Users\user\desktop\uni-notice-board\node_modules\type-fest\ts41\kebab-case.d.ts134130590214414179 0
@@ -1643,9 +1647,9 @@
 112C:\Users\user\desktop\uni-notice-board\node_modules\supports-hyperlinks\node_modules\supports-color\package.json134130590353681801 0
 74C:\Users\user\desktop\uni-notice-board\node_modules\escalade\sync\index.js134130590209234187 0
 106C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\function-disallowed-list\index.mjs134130590222274180 0
+85C:\Users\user\desktop\uni-notice-board\node_modules\stylelint-config-standard\LICENSE134130590215544195 0
 73C:\Users\user\desktop\uni-notice-board\node_modules\node-addon-api\napi.h134130590213284168 0
 104C:\Users\user\desktop\uni-notice-board\node_modules\supports-hyperlinks\node_modules\has-flag\index.d.ts134130590357171788 0
-85C:\Users\user\desktop\uni-notice-board\node_modules\stylelint-config-standard\LICENSE134130590215544195 0
 100C:\Users\user\desktop\uni-notice-board\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs134130590249981939 0
 85C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\eme.js134130590257000743 0
 94C:\Users\user\desktop\uni-notice-board\node_modules\postcss-selector-parser\dist\util\unesc.js134130590217434179 0
@@ -1746,6 +1750,7 @@
 111C:\Users\user\desktop\uni-notice-board\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134130590209914177 0
 86C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\needlessDisables.mjs134130590225804194 0
 76C:\Users\user\desktop\uni-notice-board\node_modules\fast-deep-equal\index.js134130590208984185 0
+73C:\Users\user\desktop\uni-notice-board\dist\uni-notice-board.1a373095.css134130611370697035 0
 71C:\Users\user\desktop\uni-notice-board\node_modules\json5\dist\index.js134130590208974181 0
 94C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\normalizeAllRuleSettings.mjs134130590225844177 0
 90C:\Users\user\desktop\uni-notice-board\node_modules\@parcel\packager-js\src\.eslintrc.json134130590319072795 0
@@ -2176,9 +2181,6 @@
 99C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\named-grid-areas-no-invalid134130590223134194 1
 78C:\Users\user\desktop\uni-notice-board\node_modules\fastest-levenshtein\mod.js134130590235231844 0
 95C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\no-irregular-whitespace134130590223364180 1
-88C:\Users\user\desktop\uni-notice-board\node_modules\@nodelib\fs.scandir\out\constants.js134130590210114201 0
-68C:\Users\user\desktop\uni-notice-board\node_modules\path-scurry\dist134130590209234187 1
-93C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\no-unknown-animations134130590223384170 1
 92C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\number-max-precision134130590223494216 1
 96C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\property-disallowed-list134130590223584281 1
 106C:\Users\user\desktop\uni-notice-board\node_modules\stylelint\lib\rules\rule-nesting-at-rule-required-list134130590223674190 1
@@ -4521,8 +4523,8 @@
 78C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\utils\url.cjs134130590244451961 0
 91C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs134130590234051876 0
 92C:\Users\user\desktop\uni-notice-board\node_modules\@csstools\css-syntax-patches-for-csstree134130590359854776 1
-90C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs134130590244331930 0
 99C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\template-literals.js134130590298362236 0
+90C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\tokenizer\TokenStream.cjs134130590244331930 0
 88C:\Users\user\desktop\uni-notice-board\node_modules\caniuse-lite\data\features\path2d.js134130590286908877 0
 78C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\syntax\atrule134130590244211969 1
 78C:\Users\user\desktop\uni-notice-board\node_modules\css-tree\cjs\syntax\config134130590244571980 1
@@ -6976,6 +6978,8 @@
 63C:\Users\user\desktop\uni-notice-board\node_modules\.bin\semver134130590991365810 0
 66C:\Users\user\desktop\uni-notice-board\node_modules\.bin\stylelint134130590991345739 0
 62C:\Users\user\desktop\uni-notice-board\node_modules\.bin\which134130590991355756 0
-54C:\Users\user\desktop\uni-notice-board\dist\index.html134130592750411199 0
+54C:\Users\user\desktop\uni-notice-board\dist\index.html134130611370675522 0
+56C:\Users\user\desktop\uni-notice-board\dist\notices.html134130611370685515 0
+77C:\Users\user\desktop\uni-notice-board\dist\uni-notice-board.1a373095.css.map134130611370874856 0
 56C:\Users\user\desktop\uni-notice-board\.github\workflows134130579680472154 1
 63C:\Users\user\desktop\uni-notice-board\.github\workflows\ci.yml134130579680472154 0
