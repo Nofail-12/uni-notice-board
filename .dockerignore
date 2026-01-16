@@ -1,0 +1,7 @@
+node_modules
+src
+styles
+.git
+.gitignore
+package-lock.json
+package.json
